@@ -4,5 +4,5 @@
     <input type="text" name="nama"><br> // mengganti namaa menjadi nama agar sesuai dengan field yang diproses di controller
     <label>Email</label>
     <input type="email" name="email"><br> //mengganti type="text" menjadi type="email" 
-    <button>Kirim</button>  //menambahkan type submit pada tombol
+    <button type="submit">Kirim</button>  //menambahkan type submit pada tombol
 </form>
